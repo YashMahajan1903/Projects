@@ -1,27 +1,23 @@
-# 🎮 Tic Tac Toe
+# 🎮 Tic Tac Toe – HTML | CSS | JavaScript
 
-A simple **Tic Tac Toe** game built using Java (or change language here) that allows two players to play against each other.  
-The game runs in the console and checks for wins, draws, and invalid moves.
+A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.  
+Play against a friend locally and enjoy smooth UI with win, draw, and turn detection.
 
 ---
 
 ## ✨ Features
-- Two-player game (Player X & Player O)
-- Detects **win**, **draw**, and **invalid input**
-- Clean and simple code structure
-- Replay option (if implemented)
+- 2 Player (Local Multiplayer)
+- Shows current player's turn
+- Detects Win / Draw automatically
+- Highlights winning pattern
+- Reset / Restart game button
+- Responsive layout
 
 ---
 
 ## 🛠️ Technologies Used
-- Programming Language: **Java**
-- IDE: *Any* (VS Code / IntelliJ / Eclipse)
-
----
-
-## 🚀 How to Run
-
-### **1️⃣ Clone the repository**
-```bash
-git clone https://github.com/yourusername/tic-tac-toe.git
-cd tic-tac-toe
+| Technology | Purpose |
+|------------|---------|
+| **HTML** | Structure of the game board |
+| **CSS**  | Styling and layout |
+| **JavaScript** | Game logic and interactions |
