@@ -1,23 +1,20 @@
-# 🎮 Tic Tac Toe – HTML | CSS | JavaScript
-
-A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.  
-Play against a friend locally and enjoy smooth UI with win, draw, and turn detection.
+A responsive and interactive web project built using **HTML, CSS, and JavaScript**.  
+This project focuses on clean UI, modern styling, and smooth user experience.
 
 ---
 
 ## ✨ Features
-- 2 Player (Local Multiplayer)
-- Shows current player's turn
-- Detects Win / Draw automatically
-- Highlights winning pattern
-- Reset / Restart game button
-- Responsive layout
+- Fully responsive design
+- Modern UI with clean layout
+- Dynamic interaction using JavaScript
+- Lightweight & fast performance
+- Compatible with all modern browsers
 
 ---
 
 ## 🛠️ Technologies Used
 | Technology | Purpose |
 |------------|---------|
-| **HTML** | Structure of the game board |
-| **CSS**  | Styling and layout |
-| **JavaScript** | Game logic and interactions |
+| **HTML5** | Page structure and content |
+| **CSS3**  | Styling, layout & responsiveness |
+| **JavaScript (ES6+)** | Functionality, logic & interactivity |
